@@ -8,9 +8,9 @@ import requests
 import json
 
 # API Entegrasyon Bilgileri - Mağaza paneline giriş yaparak BİLGİ sayfasından alabilirsiniz.
-merchant_id = 'XXXXXX'
-merchant_key = b'YYYYYYYYYYYYYY'
-merchant_salt = b'ZZZZZZZZZZZZZZ'
+merchant_id = '492579'
+merchant_key = b'Gxm6ww6x6hbPJmg6'
+merchant_salt = b'RbuMk9kDZ2bCa5K2'
 
 # Müşterinizin sitenizde kayıtlı veya form vasıtasıyla aldığınız eposta adresi
 email = 'XXXXXXXX'
