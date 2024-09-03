@@ -24,8 +24,8 @@ def callback(request):
     post = request.POST
 
     # API Entegrasyon Bilgileri - Mağaza paneline giriş yaparak BİLGİ sayfasından alabilirsiniz.
-    merchant_key = b'YYYYYYYYYYYYYY'
-    merchant_salt = 'ZZZZZZZZZZZZZZ'
+    merchant_key = b'Gxm6ww6x6hbPJmg6'
+    merchant_salt = 'RbuMk9kDZ2bCa5K2'
 
     # Bu kısımda herhangi bir değişiklik yapmanıza gerek yoktur.
     # POST değerleri ile hash oluştur.
